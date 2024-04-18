@@ -2,7 +2,7 @@
 
 This project aims to achieving mind-uploading by creating a digital copy of an individual human by leveraging advanced artificial neural networks and interactive interfaces with personal data such as emails, text messages, and diary entries.
 
-# Jupyter Notebooks Guide
+# Guide to Jupyter Notebooks in the Repo
 
 ## Data processing
 
@@ -14,6 +14,8 @@ This project aims to achieving mind-uploading by creating a digital copy of an i
 
 - **Description:** Jupyter Notebook for converting SMS XML files to TXT, CSV, and JSON formats.
 
+</br>
+
 ## OpenAI API Fine-Tuning and Completion
 
 ### OpenAI_API_Role_System_User_Assistant_Fine_Tuning_GPT3_5Turbo.ipynb
@@ -24,6 +26,8 @@ This project aims to achieving mind-uploading by creating a digital copy of an i
 
 - **Description:** Jupyter Notebook implementing IsaacBot's SMS Completion Mode using GPT-3.5 Turbo model.
 
+</br>
+
 ## Labeling Datasets with ChatGPT API
 
 ### SMS_Labeling.ipynb
@@ -33,6 +37,8 @@ This project aims to achieving mind-uploading by creating a digital copy of an i
 ### Journal_Labeling.ipynb
 
 - **Description:** Jupyter Notebook for labeling journal entries or data.
+
+</br>
 
 ## Personality Prompting
 
