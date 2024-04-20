@@ -1,6 +1,6 @@
 # Mind-uploading
 
-This project aims to achieving mind-uploading by creating a digital copy of an individual human by leveraging advanced artificial neural networks and interactive interfaces with personal data such as emails, text messages, and diary entries.
+This project aims to create a digital copy of my mind by combining computing technology, especially artificial neural networks, with personal data such as emails, text messages, and diary entries.
 
 # Guide to Jupyter Notebooks in the Repo
 
@@ -16,7 +16,7 @@ This project aims to achieving mind-uploading by creating a digital copy of an i
 
 </br>
 
-## OpenAI API Fine-Tuning and Completion
+## OpenAI API LLM Fine-Tuning and Completion
 
 ### [OpenAI_API_Role_System_User_Assistant_Fine_Tuning_GPT3_5Turbo.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/OpenAI_API_Role_System_User_Assistant_Fine_Tuning_GPT3_5Turbo.ipynb)
 
