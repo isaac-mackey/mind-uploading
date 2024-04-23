@@ -2,9 +2,9 @@
 
 This project aims to create a digital copy of my mind by combining computing technology, especially artificial neural networks, with personal data such as emails, text messages, and diary entries.
 
-# Guide to Jupyter Notebooks in the Repo
+# Guide to the Jupyter Notebook Files in this Repository
 
-## Data processing
+## Raw data processing
 
 ### [Gmail_Mbox_to_TXT_JSON.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/Gmail_Mbox_to_TXT_JSON.ipynb)
 
@@ -16,19 +16,19 @@ This project aims to create a digital copy of my mind by combining computing tec
 
 </br>
 
-## OpenAI API LLM Fine-Tuning and Completion
+## Large Language Model Fine-Tuning and Completion via OpenAI API 
 
 ### [OpenAI_API_Role_System_User_Assistant_Fine_Tuning_GPT3_5Turbo.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/OpenAI_API_Role_System_User_Assistant_Fine_Tuning_GPT3_5Turbo.ipynb)
 
-- **Description:** Jupyter Notebook for fine-tuning GPT-3.5 Turbo model on OpenAI API for role-based systems like user assistant.
+- **Description:** Jupyter Notebook for fine-tuning GPT-3.5 Turbo model on OpenAI API for role-based system/user/assistant format.
 
 ### [IsaacBot_SMS_Completion_Mode_GPT3_5Turbo.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/IsaacBot_SMS_Completion_Mode_GPT3_5Turbo.ipynb)
 
-- **Description:** Jupyter Notebook implementing IsaacBot's SMS Completion Mode using GPT-3.5 Turbo model.
+- **Description:** Jupyter Notebook implementing IsaacBot's SMS Completion Mode using GPT-3.5 Turbo model and OpenAI API
 
 </br>
 
-## Labeling Datasets with ChatGPT API
+## Labeling Datasets with OpenAI API
 
 ### [SMS_Labeling.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/SMS_Labeling.ipynb)
 
@@ -40,7 +40,7 @@ This project aims to create a digital copy of my mind by combining computing tec
 
 </br>
 
-## Personality Prompting
+## Prompts for Personality Trait Evaluation and Autobiographical Recall
 
 ### [16_Personality_Factors_Questionaire.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/16_Personality_Factors_Questionaire.ipynb)
 
