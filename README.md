@@ -2,7 +2,24 @@
 
 This project aims to create a digital copy of my mind by combining computing technology, especially artificial neural networks, with personal data such as emails, text messages, and diary entries.
 
-# Guide to the Jupyter Notebook Files in this Repository
+## Install Dependencies
+
+You can install the dependencies below with the `requirements.txt` file:
+
+```plaintext
+openai
+numpy
+tiktoken
+lxml
+```
+
+Use the following command to install these dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+# Jupyter Notebook Files in this Repo
 
 ## Raw data processing
 
@@ -12,7 +29,7 @@ This project aims to create a digital copy of my mind by combining computing tec
 
 ### [SMS_XML_to_TXT_CSV_JSON.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/SMS_XML_to_TXT_CSV_JSON.ipynb)
 
-- **Description:** Jupyter Notebook for converting SMS XML files to TXT, CSV, and JSON formats.
+- **Description:** A Jupyter Notebook for converting SMS XML files to TXT, CSV, and JSON formats.
 
 </br>
 
