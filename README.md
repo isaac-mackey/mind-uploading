@@ -1,10 +1,12 @@
 # Mind-uploading
 
-This project aims to create a digital copy of my mind by combining computing technology, especially artificial neural networks, with personal data such as emails, text messages, and diary entries.
+This project aims to create a digital copy of my mind by combining computing technology, especially artificial neural networks, with natural language datasets such as emails, text messages, and diary entries.
+
+Below are Python Notebooks that process these datasets and use them as source material and training data for OpenAI's Large Language Models.
 
 ## Install Dependencies
 
-You can install the dependencies below with the `requirements.txt` file:
+All dependencies in this repository are listed in `requirements.txt`:
 
 ```plaintext
 openai
@@ -19,13 +21,13 @@ Use the following command to install these dependencies:
 pip install -r requirements.txt
 ```
 
-# Jupyter Notebook Files in this Repo
+# Jupyter Notebook Files in this Repository
 
 ## Raw data processing
 
 ### [Gmail_Mbox_to_TXT_JSON.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/Gmail_Mbox_to_TXT_JSON.ipynb)
 
-- **Description:** A Jupyter Notebook for converting Gmail Mbox files to TXT and JSON formats.
+- **Description:** A Jupyter Notebook for exporting Gmail Mbox files and converting them to TXT and JSON formats.
 
 ### [SMS_XML_to_TXT_CSV_JSON.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/SMS_XML_to_TXT_CSV_JSON.ipynb)
 
@@ -33,35 +35,35 @@ pip install -r requirements.txt
 
 </br>
 
-## Large Language Model Fine-Tuning and Completion via OpenAI API 
+## Large Language Model Conversation with OpenAI's API 
 
 ### [OpenAI_API_Role_System_User_Assistant_Fine_Tuning_GPT3_5Turbo.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/OpenAI_API_Role_System_User_Assistant_Fine_Tuning_GPT3_5Turbo.ipynb)
 
-- **Description:** Jupyter Notebook for fine-tuning GPT-3.5 Turbo model on OpenAI API for role-based system/user/assistant format.
+- **Description:** Jupyter Notebook for fine-tuning a GPT-3.5 Turbo model with OpenAI's API using the role-based system/user/assistant format.
 
-### [IsaacBot_SMS_Completion_Mode_GPT3_5Turbo.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/IsaacBot_SMS_Completion_Mode_GPT3_5Turbo.ipynb)
+### [Completion_Mode_with OpenAI's API.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/IsaacBot_SMS_Completion_Mode_GPT3_5Turbo.ipynb)
 
-- **Description:** Jupyter Notebook implementing IsaacBot's SMS Completion Mode using GPT-3.5 Turbo model and OpenAI API
+- **Description:** Jupyter Notebook implementing a conversation using a GPT-3.5 Turbo model.
 
 </br>
 
-## Labeling Datasets with OpenAI API
+## Labeling Datasets with OpenAI's API
 
 ### [SMS_Labeling.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/SMS_Labeling.ipynb)
 
-- **Description:** Jupyter Notebook for labeling SMS (Short Message Service) messages.
+- **Description:** Jupyter Notebook for labeling SMS (Short Message Service) conversations.
 
 ### [Journal_Labeling.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/Journal_Labeling.ipynb)
 
-- **Description:** Jupyter Notebook for labeling journal entries or data.
+- **Description:** Jupyter Notebook for labeling journal entries.
 
 </br>
 
-## Prompts for Personality Trait Evaluation and Autobiographical Recall
+## Personality Trait Evaluation and Autobiographical Recall
 
 ### [16_Personality_Factors_Questionaire.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/16_Personality_Factors_Questionaire.ipynb)
 
-- **Description:** Jupyter Notebook for conducting a questionnaire related to the 16 Personality Factors model.
+- **Description:** Jupyter Notebook for conducting a questionnaire related to the 16 Personality Factors model on a Large Language Model.
 
 ### [Autobiographical_Prompts.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/Autobiographical_Prompts.ipynb)
 
