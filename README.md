@@ -1,6 +1,6 @@
 # Mind-uploading
 
-This project aims to create a digital copy of my mind by combining computing technology, especially artificial neural networks, with natural language datasets such as emails, text messages, and diary entries.
+This project aims to create a digital copy of my mind by combining computing technology, especially artificial neural networks, with natural language datasets such as emails, text messages, diary entries, and voice recordings.
 
 Below are Python Notebooks that process these datasets and use them as source material and training data for OpenAI's Large Language Models.
 
