@@ -4,12 +4,6 @@ This project aims to create a digital copy of my mind by combining computing tec
 
 Below are Python Notebooks that process these datasets and use them as source material and training data for OpenAI's Large Language Models.
 
-All software library dependencies in this repository are listed in `requirements.txt` and can be installed with the following command:
-
-```bash
-pip install -r requirements.txt
-```
-
 # Jupyter Notebook Files in this Repository
 
 ## Raw data processing
