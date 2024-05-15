@@ -32,11 +32,11 @@ pip install -r requirements.txt
 
 ### [OpenAI_API_Role_System_User_Assistant_Fine_Tuning_GPT3_5Turbo.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/OpenAI_API_Role_System_User_Assistant_Fine_Tuning_GPT3_5Turbo.ipynb)
 
-- **Description:** Jupyter Notebook for fine-tuning a GPT-3.5 Turbo model with OpenAI's API using the role-based system/user/assistant format.
+- **Description:** A Jupyter Notebook for fine-tuning a GPT-3.5 Turbo model with OpenAI's API using the role-based system/user/assistant format.
 
 ### [Completion_Mode_with OpenAI_API.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/IsaacBot_SMS_Completion_Mode_GPT3_5Turbo.ipynb)
 
-- **Description:** Jupyter Notebook implementing a conversation using a fine-tuned GPT-3.5 Turbo model.
+- **Description:** A Jupyter Notebook implementing a conversation using a fine-tuned GPT-3.5 Turbo model.
 
 </br>
 
@@ -44,11 +44,11 @@ pip install -r requirements.txt
 
 ### [SMS_Labeling.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/SMS_Labeling.ipynb)
 
-- **Description:** Jupyter Notebook for labeling SMS (Short Message Service) conversations.
+- **Description:** A Jupyter Notebook for labeling SMS (Short Message Service) conversations.
 
 ### [Journal_Labeling.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/Journal_Labeling.ipynb)
 
-- **Description:** Jupyter Notebook for labeling journal entries.
+- **Description:** A Jupyter Notebook for labeling journal entries.
 
 </br>
 
@@ -56,8 +56,8 @@ pip install -r requirements.txt
 
 ### [Personality_Factors_Questionaire.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/16_Personality_Factors_Questionaire.ipynb)
 
-- **Description:** Jupyter Notebook for conducting a questionnaire related to the 16 Personality Factors model on a Large Language Model.
+- **Description:** A Jupyter Notebook for conducting a questionnaire related to the 16 Personality Factors model on a Large Language Model.
 
 ### [Autobiographical_Prompts.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/Autobiographical_Prompts.ipynb)
 
-- **Description:** Jupyter Notebook containing prompts for autobiographical writing.
+- **Description:** A Jupyter Notebook containing prompts for autobiographical writing.
