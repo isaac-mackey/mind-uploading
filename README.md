@@ -16,7 +16,7 @@ Below are Python Notebooks that process these datasets and use them as source ma
 
 - **Description:** A Jupyter Notebook for converting SMS XML files to TXT, CSV, and JSON formats.
 
-### [Audio_Transcription_Timestamps](https://github.com/isaac-mackey/mind-uploading/blob/main/Audio_Transcription_Timestamps.ipynb)
+### [Audio_Transcription_Timestamps.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/Audio_Transcription_Timestamps.ipynb)
 
 - **Description:** A Jupyter Notebook for transcribing audio files and filtering audio and transcripts for specific content.
 
