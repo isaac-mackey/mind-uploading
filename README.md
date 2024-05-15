@@ -22,6 +22,10 @@ pip install -r requirements.txt
 
 - **Description:** A Jupyter Notebook for converting SMS XML files to TXT, CSV, and JSON formats.
 
+### [Audio_Transcription_Timestamps](https://github.com/isaac-mackey/mind-uploading/blob/main/Audio_Transcription_Timestamps.ipynb)
+
+- **Description:** A Jupyter Notebook for transcribing audio files and filtering audio and transcripts for specific content.
+
 </br>
 
 ## Large Language Model Conversation with OpenAI's API 
@@ -30,9 +34,9 @@ pip install -r requirements.txt
 
 - **Description:** Jupyter Notebook for fine-tuning a GPT-3.5 Turbo model with OpenAI's API using the role-based system/user/assistant format.
 
-### [Completion_Mode_with OpenAI's API.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/IsaacBot_SMS_Completion_Mode_GPT3_5Turbo.ipynb)
+### [Completion_Mode_with OpenAI_API.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/IsaacBot_SMS_Completion_Mode_GPT3_5Turbo.ipynb)
 
-- **Description:** Jupyter Notebook implementing a conversation using a GPT-3.5 Turbo model.
+- **Description:** Jupyter Notebook implementing a conversation using a fine-tuned GPT-3.5 Turbo model.
 
 </br>
 
@@ -50,7 +54,7 @@ pip install -r requirements.txt
 
 ## Personality Trait Evaluation and Autobiographical Recall
 
-### [16_Personality_Factors_Questionaire.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/16_Personality_Factors_Questionaire.ipynb)
+### [Personality_Factors_Questionaire.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/16_Personality_Factors_Questionaire.ipynb)
 
 - **Description:** Jupyter Notebook for conducting a questionnaire related to the 16 Personality Factors model on a Large Language Model.
 
