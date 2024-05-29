@@ -20,7 +20,7 @@ Below are descriptions of and links to Python Notebooks that process these datas
 
 </br>
 
-## Large Language Model Conversations with OpenAI's API 
+## Tuning Large Language Models with Personal Datasets and OpenAI's API 
 
 ### [OpenAI_API_Role_System_User_Assistant_Fine_Tuning_GPT3_5Turbo.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/OpenAI_API_Role_System_User_Assistant_Fine_Tuning_GPT3_5Turbo.ipynb)
 
@@ -32,7 +32,7 @@ Below are descriptions of and links to Python Notebooks that process these datas
 
 </br>
 
-## Labeling Datasets with OpenAI's API
+## Labeling Personal Datasets with OpenAI's API
 
 ### [SMS_Labeling.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/SMS_Labeling.ipynb)
 
