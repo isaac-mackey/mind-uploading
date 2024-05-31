@@ -22,7 +22,7 @@ Below are some Python Jupyter Notebooks to perform the tasks described above.
 
 </br>
 
-## Labeling Personal Datasets with OpenAI's API
+## Labeling Personal Datasets
 
 ### [SMS_Labeling.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/SMS_Labeling.ipynb)
 
@@ -34,7 +34,7 @@ Below are some Python Jupyter Notebooks to perform the tasks described above.
 
 </br>
 
-## Tuning Large Language Models with Personal Datasets and OpenAI's API 
+## Tuning Large Language Models with OpenAI's API 
 
 ### [OpenAI_API_Role_System_User_Assistant_Fine_Tuning_GPT3_5Turbo.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/OpenAI_API_Role_System_User_Assistant_Fine_Tuning_GPT3_5Turbo.ipynb)
 
