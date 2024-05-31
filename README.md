@@ -1,6 +1,6 @@
 # Mind-uploading
 
-This project combines computing technology with natural language datasets such as emails, text messages, diary entries, and voice recordings. The overall intent is to create a digital copy of my mind.
+This project combines computing technology with natural language datasets such as emails, text messages, diary entries, and voice recordings. The intent is to create a digital copy of my mind.
 
 First, I export datasets from native application formats (e.g., Gmail mbox, Android SMS xml) into stable forms (e.g., txt files) that may outlive the application and allow further processing. Next, I use basic data mining programs as well as processing by large language models to identify recurring topics and communication patterns. Then, I replicate my linguistic patterns by fine-tuning large language models to these datasets.
 
