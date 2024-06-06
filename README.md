@@ -1,6 +1,6 @@
 # Mind-uploading
 
-This project combines computing technology with natural language datasets such as emails, text messages, diary entries, and voice recordings.
+This project combines computing technology with personal natural language datasets such as emails, text messages, diary entries, and voice recordings.
 
 This includes
 - exporting datasets from native application formats (e.g., Gmail mbox, Android SMS xml) into stable forms (e.g., txt files) that may outlive the application and allow further processing
