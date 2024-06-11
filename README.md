@@ -2,7 +2,7 @@
 
 This project combines computing technology with personal natural language datasets such as emails, text messages, diary entries, and voice recordings.
 
-This includes
+The programs below are for:
 - exporting datasets from native application formats (e.g., Gmail mbox, Android SMS xml) into stable forms (e.g., txt files) that may outlive the application and allow further processing
 - basic data mining and processing by large language models to identify recurring topics and communication patterns
 - replicating linguistic patterns by fine-tuning large language models to these datasets
