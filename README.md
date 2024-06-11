@@ -2,15 +2,13 @@
 
 This project combines computing technology with personal natural language datasets such as emails, text messages, diary entries, and voice recordings.
 
-The programs below are for:
+Below are Python Notebooks for:
 - exporting datasets from native application formats (e.g., Gmail mbox, Android SMS xml) into stable forms (e.g., txt files) that may outlive the application and allow further processing
 - basic data mining and processing by large language models to identify recurring topics and communication patterns
-- replicating linguistic patterns by fine-tuning large language models to these datasets
+- tuning large language models to these datasets
 - prompting language models for personality and autobiographical information
 
-Below are some Python Jupyter Notebooks to perform the tasks described above.
-
-## Raw data processing
+## Dataset extraction
 
 ### [Gmail_Mbox_to_TXT_JSON.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/Gmail_Mbox_to_TXT_JSON.ipynb)
 
@@ -26,7 +24,7 @@ Below are some Python Jupyter Notebooks to perform the tasks described above.
 
 </br>
 
-## Labeling Personal Datasets
+## Data Mining and Labeling
 
 ### [SMS_Labeling.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/SMS_Labeling.ipynb)
 
@@ -50,7 +48,7 @@ Below are some Python Jupyter Notebooks to perform the tasks described above.
 
 </br>
 
-## Personality Trait Evaluation and Autobiographical Recall
+## Prompts for Personality Trait Evaluation and Autobiographical Recall
 
 ### [Personality_Factors_Questionaire.ipynb](https://github.com/isaac-mackey/mind-uploading/blob/main/16_Personality_Factors_Questionaire.ipynb)
 
